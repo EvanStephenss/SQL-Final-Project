@@ -28,7 +28,7 @@ artsy.net*
 
 ## Notebooks
 *Link and describe each Jupyter notebook in your repository. For example:*
-- [API_ETL_EvanStephens_Final_Version.ipynb]: This notebook is used for initial data exploration and visualization.
+- [API_ETL_EvanStephens_Final_Version.ipynb](https://github.com/EvanStephenss/SQL-Final-Project/blob/a337512a188d985feba37ee6a3201e25a53d424c/API_ETL_EvanStephens_Final_Version.ipynb): This notebook contains the API ETL Pipline
 - [WEB_SCRAPE_ETL_EvanStephens_Final_Version.ipynb](link-to-notebook): This notebook focuses on data preprocessing and model training.
 
 ## Future Improvements
