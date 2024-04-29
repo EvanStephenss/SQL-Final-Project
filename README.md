@@ -29,7 +29,7 @@ artsy.net*
 ## Notebooks
 *Link and describe each Jupyter notebook in your repository. For example:*
 - [API_ETL_EvanStephens_Final_Version.ipynb]: This notebook is used for initial data exploration and visualization.
-- [Notebook2.ipynb](link-to-notebook): This notebook focuses on data preprocessing and model training.
+- [WEB_SCRAPE_ETL_EvanStephens_Final_Version.ipynb](link-to-notebook): This notebook focuses on data preprocessing and model training.
 
 ## Future Improvements
 *Would have liked to include financial history and pricing information but I was unable to scrape this inmformation due to its access being behind a login. I spent many hours working on a solution to this issue using selenium and an automated browsing function that gave the scaper access to the logged in url but needed to abondon this effort due to time constraints.*
