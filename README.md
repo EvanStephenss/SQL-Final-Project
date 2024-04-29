@@ -18,18 +18,14 @@
 ## Project and Job Posting Relation
 *Explain how the project relates to the job requirements and responsibilities mentioned in the job posting.*
 
-## Data
-### Source
+## Data Source
 *My data is retrieved from The Metropolitan Museum of Art Collection API as well as a comprehensive Roy Lichtenstein auction history webscraped from
 artsy.net*
-
-### Characteristics
-*Describe the main characteristics of the data, such as volume, variety, velocity, and veracity.*
 
 ## Notebooks
 *Link and describe each Jupyter notebook in your repository. For example:*
 - [API_ETL_EvanStephens_Final_Version.ipynb](https://github.com/EvanStephenss/SQL-Final-Project/blob/a337512a188d985feba37ee6a3201e25a53d424c/API_ETL_EvanStephens_Final_Version.ipynb): This notebook contains the API ETL Pipline
-- [WEB_SCRAPE_ETL_EvanStephens_Final_Version.ipynb](link-to-notebook): This notebook focuses on data preprocessing and model training.
+- [WEB_SCRAPE_ETL_EvanStephens_Final_Version.ipynb]([link-to-notebook](https://github.com/EvanStephenss/SQL-Final-Project/blob/ae973b7ef70a6c9f00703861aad2c71b74c6ea33/WEB_SCRAPE_ETL_EvanStephens_Final_Version.ipynb)): This notebook contains the Webscraping ETL Pipeline
 
 ## Future Improvements
 *Would have liked to include financial history and pricing information but I was unable to scrape this inmformation due to its access being behind a login. I spent many hours working on a solution to this issue using selenium and an automated browsing function that gave the scaper access to the logged in url but needed to abondon this effort due to time constraints.*
