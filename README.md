@@ -28,7 +28,7 @@ artsy.net*
 
 ## Notebooks
 *Link and describe each Jupyter notebook in your repository. For example:*
-- [Notebook1.ipynb](link-to-notebook): This notebook is used for initial data exploration and visualization.
+- [API_ETL_EvanStephens_Final_Version.ipynb]: This notebook is used for initial data exploration and visualization.
 - [Notebook2.ipynb](link-to-notebook): This notebook focuses on data preprocessing and model training.
 
 ## Future Improvements
