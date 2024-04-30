@@ -12,11 +12,22 @@
 ## How Are You Solving This Problem?
 *Using Joins, Window Functions, aggregate Functions, and CTEs i will be gathering actionable imsights for lichtenstein collectors*
 
-## Job Description
-*Include a paragraph explaining the company, the title of the position, and the job description for the job posting you selected.*
+### Key Points from the Job Description Relevant to My Project
 
-## Project and Job Posting Relation
-*Explain how the project relates to the job requirements and responsibilities mentioned in the job posting.*
+1. **Digital Analytics Role and Responsibilities**: The role of Digital Analytics Senior Manager at Sotheby's focuses heavily on analyzing and reporting on the performance of various marketing campaigns using tools like Adobe Analytics and SQL. This parallels Some of the analytical workin this project where I used SQL to analyze art auction data.
+  
+2. **Use of Data in Decision Making**: The job requires the ability to manipulate large quantities of data to drive business decisions. This is a skill I demonstrated by integrating data from multiple sources (API and web scraping) to provide actionable insights for Lichtenstein collectors and dealers.
+
+3. **Technical Proficiency**: Proficiency in SQL and R is a must for the role at Sotheby's. My project showcased my capability in SQL, along with various Python libraries, AWS RDS, and other technologies, underlining my exemplary technical adaptability and proficiency.
+
+### Project and Job Posting Relation
+
+This directly addresses the kind of challenges and responsibilities described in the Sotheby's job posting. Specifically, with aggregating and analyzing data aligns with the role's focus on utilizing data to inform strategic marketing decisions. By demonstrating my ability to gather and interpret data related to art collections and auction history, I directly showcase the skills needed to contribute effectively to Sotheby’s digital analytics objectives.
+
+### Summary
+
+Overall, I've effectively utilized SQL and Python to address a specific niche in the art world—enhancing the data analytics capabilities surrounding art collection and auction history. This directly aligns with the responsibilities of the Digital Analytics Senior Manager position at Sotheby's, where the emphasis is on using analytical tools to optimize marketing campaigns and make informed business decisions.My project not only demonstrates relevant technical skills and passion for the subject but also shows an innovative approach to merging data analytics within the art sector. 
+
 
 ## Data Source
 *My data is retrieved from The Metropolitan Museum of Art Collection API as well as a comprehensive Roy Lichtenstein auction history webscraped from
