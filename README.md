@@ -1,7 +1,7 @@
 # SQL-Final-Project
 
 # Project Name
-*So You Want a Lichtenstein*
+*So You Want A Lichtenstein...*
 
 ## Project Objective
 *The purpose of this project was to demonstrate my capabilities in Python, SQL, AWS RDS, Webscraping, and API manipulation. I decided to make this project personal by impersonating a data analyst working under an auction house, art gallery, museum, or contractural curator. While its a niche role I admit, I belive there to be great opportunity in bringing the cutting edge of data analytics into the art world. This project is my first step towards that goal.*
@@ -34,9 +34,12 @@ Overall, I've effectively utilized SQL and Python to address a specific niche in
 artsy.net*
 
 ## Notebooks
-*Link and describe each Jupyter notebook in your repository. For example:*
+
 - [API_ETL_EvanStephens_Final_Version.ipynb](https://github.com/EvanStephenss/SQL-Final-Project/blob/a337512a188d985feba37ee6a3201e25a53d424c/API_ETL_EvanStephens_Final_Version.ipynb): This notebook contains the API ETL Pipline
 - [WEB_SCRAPE_ETL_EvanStephens_Final_Version.ipynb](https://github.com/EvanStephenss/SQL-Final-Project/blob/ae973b7ef70a6c9f00703861aad2c71b74c6ea33/WEB_SCRAPE_ETL_EvanStephens_Final_Version.ipynb): This notebook contains the Webscraping ETL Pipeline
+- [API_SQL_ANALYSIS.ipynb](https://github.com/EvanStephenss/SQL-Final-Project/blob/a5378baf5f6ca7b621e5d1156b1500a88c6053d8/API_SQL_ANALYSIS.ipynb) : API Analysis in SQL
+- [Web_Scrape_SQL_Analysis.ipynb](https://github.com/EvanStephenss/SQL-Final-Project/blob/a5378baf5f6ca7b621e5d1156b1500a88c6053d8/Web_Scrape_SQL_Analysis.ipynb) : WEB Scrape Analysis in SQL
+- 
 
 ## Future Improvements
 *Would have liked to include financial history and pricing information but I was unable to scrape this inmformation due to its access being behind a login. I spent many hours working on a solution to this issue using selenium and an automated browsing function that gave the scaper access to the logged in url but needed to abondon this effort due to time constraints.*
